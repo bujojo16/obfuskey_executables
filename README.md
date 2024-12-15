@@ -14,10 +14,10 @@ In order to verify you are running the correct version, it is recommended to com
 - [Obfuskey.io](https://www.obfuskey.io)
 - [Obfuskey.com](https://www.obfuskey.com)
 
-Sha256 hash of “obfuskey-2.1.exe”
+Sha256 hash of “obfuskey-2.1.exe”   
 2f7644180e7e9655e9d8af1f8a8be90ea382858a94e24f5285f3bd58bfbe334b
 
-Sha256 hash of “ofbuskey-2.1_linux”
+Sha256 hash of “ofbuskey-2.1_linux”   
 b92338922440cd6dd6ed58d1987024502163d6666d7803d32b44fec88522bca6
 
 ## How to use
