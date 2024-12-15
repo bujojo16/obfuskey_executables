@@ -8,6 +8,18 @@ The executable files found in this repository were made using PyInstaller on the
 
 For absolute security, it is recommended you read the source code from Obfuskey's repository (so you can make sure it is safe), clone it and generate your own version using PyInstaller. This will improve compatibility since it is made using your own operating system and will give you the opportunity to make sure your executable was generated from the original Obfuskey source code.
 
+## Sha256 hash of executable files
+
+In order to verify you are running the correct version, it is recommended to compare the sha256 hash of the files with the one in here as well as the one in the official websites:
+- [Obfuskey.io](https://www.obfuskey.io)
+- [Obfuskey.com](https://www.obfuskey.com)
+
+Sha256 hash of “obfuskey-2.1.exe”
+2f7644180e7e9655e9d8af1f8a8be90ea382858a94e24f5285f3bd58bfbe334b
+
+Sha256 hash of “ofbuskey-2.1_linux”
+b92338922440cd6dd6ed58d1987024502163d6666d7803d32b44fec88522bca6
+
 ## How to use
 ### Tails Os/Linux:
 - Download the ZIP file of the repository and UNZIP it in the folder where it is located (Tails: 'Tor Browser')   
